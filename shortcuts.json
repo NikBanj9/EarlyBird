@@ -1,0 +1,65 @@
+[
+	{
+          "id": 1,
+          "tweet_text": "Binary search is faster than linear search, but only works if your data is in order #Shortcut",
+          "number_of_likes": 65,
+          "number_of_retweets": 23,
+          "number_of_replies": 14,
+          "number_of_impressions": 500,
+          "location": "New York, USA",
+          "date_time": "Sat 14 October 2017 07:00 UTC"
+    },
+    {
+    	  "id": 2,
+          "tweet_text": "Lists have a Big O(n) #Shortcut",
+          "number_of_likes": 40,
+          "number_of_retweets": 13,
+          "number_of_replies": 14,
+          "number_of_impressions": 500,
+          "location": "New York, USA",
+          "date_time": "Sat 16 February 2017 07:00 UTC"
+    },
+    {
+    	  "id": 3,
+          "tweet_text": "Why take the highways than take a back road?... bruh #Shortcut",
+          "number_of_likes": 89,
+          "number_of_retweets": 33,
+          "number_of_replies": 34,
+          "number_of_impressions": 1000,
+          "location": "Atlanta, USA",
+          "date_time": "Sat 14 May 2017 07:00 UTC"
+    },
+    {
+    	  "id": 4,
+          "tweet_text": "That moment when your parents want to the scenic route #Shortcut",
+          "number_of_likes": 7,
+          "number_of_retweets": 3,
+          "number_of_replies": 31,
+          "number_of_impressions": 10,
+          "location": "Rome, Italy",
+          "date_time": "Sat 12 May 2017 07:00 UTC"
+    },
+    {
+    	"id": 5,
+          "tweet_text": "TMI LOL SZN #Shortcut",
+          "number_of_likes": 70,
+          "number_of_retweets": 80,
+          "number_of_replies": 11,
+          "number_of_impressions": 50,
+          "location": "Rome, Italy",
+          "date_time": "Sat 12 April 2017 07:00 UTC"
+
+    },
+    {
+
+    	"id": 6,
+          "tweet_text": "Finals Szn #Shortcut",
+          "number_of_likes": 90,
+          "number_of_retweets": 80,
+          "number_of_replies": 40,
+          "number_of_impressions": 100,
+          "location": "Rome, Italy",
+          "date_time": "Sat 12 March 2017 07:00 UTC"
+    }
+]
+
